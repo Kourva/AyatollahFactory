@@ -130,7 +130,7 @@ class AyatollahFactory(MDApp):
         # Text Meaning
         self.Hint = MDLabel(
             font_style= "Subtitle1",
-            text = "** The Meaning Of Tame **",
+            text = "** The Meaning Of Name **",
             theme_text_color = "Custom",
             text_color = "#000000",
             halign = "center",
