@@ -26,3 +26,5 @@ python3 main.py
 ```bash
 python3 cli.py
 ```
+# Preview
+<img src="https://github.com/Izolabela/AyatollahFactory/blob/main/preview.png" width="100%" />
