@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ## Ayatollah Generator App Made With KivyMD
-## GITHUB: https://github.com/Izolabela
+## GITHUB: https://github.com/Kourva
 
 # Imports
 from sys import exit
