@@ -141,7 +141,7 @@ class AyatollahFactory(MDApp):
         # Github Dialog
         self.Github = MDDialog(
             title = "Developer Note",
-            text = "Support me by giving a star :D\n\nhttps://github.com/Izolabela/AyatollahFactory",
+            text = "Support me by giving a star :D\n\nhttps://github.com/Kourva/AyatollahFactory",
             buttons = [
                 MDFlatButton(
                     text = "Close",
